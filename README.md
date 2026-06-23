@@ -1,8 +1,8 @@
 # Hi, my name is Davi Esmeraldo! 👋
 
-### Statician | Data Scientist & Data Analytics  | Building Data-Driven Solutions
+### Statician | Data Scientist | Data Analytics  | Building Data-Driven Solutions
 
-Cientista de Dados, Bacharel em Estatística pela Universidade de Brasília, com expertise em programação com Python, R e SQL. Possui experiência na construção de dashboards utilizando Power BI e Google Data Studio (Looker Studio), além de ampla prática em desenvolvimento de algoritmos de Machine Learning, mineração e modelagem de dados. Também detém certificações em ciência e análise de dados pela plataforma de aprendizado DataCamp.
+Data Scientist, holding a Bachelor's degree in Statistics from the University of Brasília, with expertise in programming using Python, R, and SQL. Experienced in building dashboards with Power BI and Google Data Studio (Looker Studio), as well as extensive practice in developing Machine Learning algorithms, data mining, and data modeling. Also holds certifications in Data Science and Data Analytics from the DataCamp learning platform.
 
 ---
 
@@ -31,8 +31,8 @@ Cientista de Dados, Bacharel em Estatística pela Universidade de Brasília, com
 
 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/REPLACE_ME)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/davi-esmeraldosa)
 
-Portfolio -> https://davi-esmeraldo.github.io/Portfolio_Profissional/index.html#projects
+[![GitHub Pages Portfolio](https://img.shields.io/badge/GitHub_Pages-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://davi-esmeraldo.github.io/Portfolio_Profissional/index.html#projects)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviesmeraldosa@gmail.com)
