@@ -33,6 +33,6 @@ Data Scientist, holding a Bachelor's degree in Statistics from the University of
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/davi-esmeraldosa)
 
-[![GitHub Pages Portfolio](https://img.shields.io/badge/GitHub_Pages-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://davi-esmeraldo.github.io/Portfolio_Profissional/index.html#projects)
+[![GitHub Pages Portfolio](https://img.shields.io/badge/GitHub_Pages-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://davi-esmeraldo.github.io/Portfolio_Data_Scientist/index.html#projects)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviesmeraldosa@gmail.com)
